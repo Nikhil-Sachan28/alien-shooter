@@ -26,6 +26,6 @@ one more thing, we need to consider is that, we also get negative score if any o
 
 ![image](https://user-images.githubusercontent.com/94397716/194625382-22b09088-e4f0-4833-af1e-f44b542341fe.png)
 
-                         OUR MAIN PLAYER
+         OUR MAIN PLAYER
 
 
