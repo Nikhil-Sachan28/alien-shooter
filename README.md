@@ -1,8 +1,7 @@
 # alien-shooter
-Here, in this game we have to shoot some dangerous fishes and that will help us to gain some score, if we scored certain points in limited time then we will be declared as a winner otherwise loser.
+Here, in this game we have to shoot some dangerous fishes(aliens) and that will help us to gain some score, if we scored certain points in limited time then we will be declared as a winner otherwise loser.
 
-
-
+                                                                                                                                                                                                                                                                                                                                                         
 ![image](https://user-images.githubusercontent.com/94397716/194619680-7149556a-a8b4-4ed6-8cdf-3dfa3189e56b.png)
 
 
