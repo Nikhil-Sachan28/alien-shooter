@@ -10,7 +10,7 @@ One fish named lucky fish, is actually lucky for us because it need less ammo to
 ![image](https://user-images.githubusercontent.com/94397716/194624512-53d50459-3b9d-4317-b562-6c187e3e654f.png)
 
 one fish named hive fish is needs many ammos to be killed, and after that it release mant small drone fishes.
-![image](https://user-images.githubusercontent.com/94397716/194623693-48353d55-87fb-4304-aad9-465c72ddb95c.png)
+
 
 one more thing, we need to consider is that, we also get negative score if any of enemy fish touches our main player.
 
@@ -19,7 +19,9 @@ one more thing, we need to consider is that, we also get negative score if any o
 
           LUCKY FISH
 
+![image](https://user-images.githubusercontent.com/94397716/194623693-48353d55-87fb-4304-aad9-465c72ddb95c.png)
 
+                    HIVE FISH
 
 
 
